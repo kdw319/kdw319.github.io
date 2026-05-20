@@ -1,1 +1,1 @@
-portfolio site 입니다.
+개인 Portfolio site 입니다.
